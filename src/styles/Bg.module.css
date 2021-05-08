@@ -1,0 +1,5 @@
+.container {
+  grid-area: 1/1/-1/-1;
+  background-image: url('../img/photo.jpg');
+  background-size: cover;
+}
